@@ -1,0 +1,23 @@
+/*made by nny*/
+.exportsettxt-btn {
+  background-color: black;
+  color: white;
+  border: 10px solid black;
+  font-size: 20px;
+  font-weight: bold;
+  transition: 0.25s;
+}
+
+.exportsettxt-btn:hover {
+  scale: 102%
+}
+
+.exportsettxt-btn:active {
+  background-color: #212121;
+  border-color: #212121;
+  scale: 105%;
+}
+
+body {
+  background-color: red;
+}
